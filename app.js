@@ -18,5 +18,5 @@ for (let i = 0; i < pronouns.length; i++){
             }
         }
     }
-
 } 
+document.querySelector(".generator").innerHTML = domainRandom;
